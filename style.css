@@ -1,6 +1,6 @@
 /*
 Color Palette
-background color: #200439
+background color: #9A1663
 primary: #512C73
 secondary: #361356
 tertiary: #6F4D8F
@@ -20,7 +20,7 @@ body {
     padding: 0;
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
-    background-color: #200439;
+    background-color: #9A1663;
     color: #fff;
 }
 
@@ -36,7 +36,7 @@ body {
 }
 
 .heroImage img {
-    border-radius: 6rem;
+    border-radius: 8rem;
     box-shadow: 10px 10px #000;
     width: 100%;
     height: auto;
@@ -50,7 +50,7 @@ body {
 }
 
 .heroName {
-    color: #c5b358;
+    color: #FF97C1;
     font-size: 2.5rem;
     text-transform: uppercase;
 }
@@ -173,7 +173,6 @@ footer {
         flex-direction: row;
         justify-content: space-evenly;
         align-items: center;
-        height: 90vh;
     }
 
     .heroText {
