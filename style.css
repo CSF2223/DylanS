@@ -158,66 +158,20 @@ footer {
     display: block;
 }
 
-.filler {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    height: 80vh;
-}
-
-.filler p {
-    font-size: 0.8rem;
-    padding-bottom: 2rem;
+.skillsText {
     text-align: center;
-    letter-spacing: 0px;
-}
-
-.aboutMeImg img {
-    border-radius: 50rem;
-    box-shadow: 10px 10px #000;
-    width: 40%;
-    height: auto;
-}
-
-.aboutMeImg {
-    padding: 8rem;
-}
-
-.aboutMeTop {
     color: #FF97C1;
-    font-size: 1.5rem;
-    text-transform: uppercase;
-    text-align: center;
 }
 
-.aboutMeBottom {
-    color: #FFF;
-    font-size: .8rem;
-    text-transform: uppercase;
-    text-align: center;
+.aboutMeImage {
+    padding: 2rem;
 }
 
-.skillsTextTop {
-    color: #FFF;
-    font-size: .8rem;
-    text-transform: uppercase;
-    text-align: center;
-}
-
-.skillsTextBottom {
-    color: #FFF;
-    font-size: .5rem;
-    text-transform: uppercase;
-    text-align: center;
-}
-
-.aboutMeSec {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-items: center;
+.aboutMeImage img {
+    border-radius: 8rem;
+    box-shadow: 10px 10px #000;
+    width: 70%;
+    height: auto;
 }
 
 
